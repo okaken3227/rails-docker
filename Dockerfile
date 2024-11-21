@@ -17,10 +17,6 @@ RUN bundle install
 # アプリケーションのソースコードをコピー
 COPY . .
 
-# 追加の設定（必要に応じて）
-ENV RAILS_ENV=development
-ENV RAILS_LOG_TO_STDOUT=true
-
 # ポートを公開
 EXPOSE 3000
 
