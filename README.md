@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## ①https://github.com/okaken3227/rails-docker をCloneする。
+## ②Dockerブランチにてdocker-compose upをターミナルで入力する。
+## ③右にアクセス　　http://localhost:3000　
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
